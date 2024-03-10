@@ -15,6 +15,7 @@ A simple tool to extract a database schema as json. The JSON resembles the follo
       ,"ColumnType":"nvarchar"
     }
   ]
+}]
 ```
 
 The table name is included along with a list of the column names and their data types.
